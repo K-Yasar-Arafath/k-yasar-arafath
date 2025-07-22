@@ -29,7 +29,7 @@
 - 📧 Email: yasarkr2002@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/yasararafath-k](https://linkedin.com/in/yasararafath-k)  
 - 🌐 GitHub: [github.com/yasar-arafath-k](https://github.com/yasar-arafath-k)
-  
+- 📸 [Instagram]: (https://www.instagram.com/k.yasar_arafath/)
 ---
 
 ## 📊 GitHub Stats
@@ -37,5 +37,5 @@
 
 ---
 
-> “The quieter you become, the more you can hear.” – Ram Dass  
+> “Hack the system, but with purpose.” – Yasar Arafath K  
 > Thank you for visiting my profile!
