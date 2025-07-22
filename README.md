@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Yasar Arafath K
 
-💻 Cybersecurity Enthusiast | Ethical Hacker | Pentester  
+💻 Cybersecurity Engineer | Ethical Hacker | Pentester  
 🔐 Passionate about Offensive Security, Networking, Linux, and Cloud  
 📚 Constantly learning through labs, CTFs, and platforms like TryHackMe  
 
@@ -9,19 +9,19 @@
 ## 🚀 About Me
 - 🧠 Self-taught from a commerce background, driven by curiosity and passion.
 - 🔍 Focused on ethical hacking, penetration testing, and cybersecurity tools.
-- 🎯 Goal: Land a cybersecurity job by August 2025 & grow continuously.
+- 🎯 Goal: To turn my passion for ethical hacking into a meaningful cybersecurity career, while inspiring others from non-technical backgrounds.
 
 ---
 
 ## 🛠️ Skills
 - **Tools**: Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark, Nessus, Nikto  
-- **Specialties**: Networking, Penetration Testing, Ethical Hacking  
+- **Specialities**: Networking, Penetration Testing, Ethical Hacking  
 - **Certifications**: Networking, Linux, Cloud, Cybersecurity (Kaashiv Infotech)
 
 ---
 
 ## 📂 Featured Projects
-- 💡 More projects coming soon…
+- 💡 Projects coming soon…
 
 ---
 
