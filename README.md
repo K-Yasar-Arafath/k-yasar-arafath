@@ -21,7 +21,6 @@
 ---
 
 ## 📂 Featured Projects
-- 🎉 [Birthday Website for Chandbee](https://yasark1639.github.io/Chandbee-Birthday/)
 - 💡 More projects coming soon…
 
 ---
@@ -29,9 +28,8 @@
 ## 📬 Connect with Me
 - 📧 Email: yasarkr2002@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/yasararafath-k](https://linkedin.com/in/yasararafath-k)  
-- 🌐 GitHub: [github.com/yasar-arafath-k](https://github.com/yasar-arafath-k)  
-- 📽️ YouTube: [MASK TECHNOLOGY](https://youtube.com/@MASKTECHNOLOGY)
-
+- 🌐 GitHub: [github.com/yasar-arafath-k](https://github.com/yasar-arafath-k)
+  
 ---
 
 ## 📊 GitHub Stats
