@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Yasar Arafath K
+# 👋 Hey there, I'm K Yasar Arafath
 
 💻 Cybersecurity Engineer | Ethical Hacker | Pentester  
 🔐 Passionate about Offensive Security, Networking, Linux, and Cloud  
