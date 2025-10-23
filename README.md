@@ -34,6 +34,13 @@
 
 ## 📊 GitHub Stats
 ![Yasar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasar-arafath-k&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Yasar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasarK1639&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasarK1639&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YasarK1639&theme=tokyonight&hide_border=true)
 
 ---
 
