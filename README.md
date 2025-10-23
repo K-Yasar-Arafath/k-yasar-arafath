@@ -28,7 +28,7 @@
 ## 📬 Connect with Me
 - 📧 Email: [yasarkr2002@gmail.com]  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/k-yasar-arafath/]  
-- 🌐 GitHub: [github.com/yasar-arafath-k][https://github.com/k-yasar-arafath]
+- 🌐 GitHub: [https://github.com/k-yasar-arafath]
 - 📸 [Instagram]: [https://www.instagram.com/k_yasar_arafath/]
 ---
 
