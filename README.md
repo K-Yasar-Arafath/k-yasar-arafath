@@ -21,7 +21,19 @@
 ---
 
 ## 📂 Featured Projects
-- 💡 Projects coming soon…
+
+• Network Scanning using Nmap  
+• Network Monitoring using Bettercap  
+• Web Vulnerability Assessment using OWASP ZAP  
+• Web Directory Enumeration using Gobuster  
+• Linux Log Analysis  
+• Wireshark Traffic Analysis  
+• Phishing Email Investigation  
+• Incident Response Simulation  
+• Threat Intelligence Lookup  
+
+All projects are available in my repository:
+https://github.com/K-Yasar-Arafath/cybersecurity-projects
 
 ---
 
